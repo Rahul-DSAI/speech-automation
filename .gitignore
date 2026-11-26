@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Runtime audio and user data
+uploads/
+Input/
+input/
+output/
+outputs/
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.log
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

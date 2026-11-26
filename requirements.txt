@@ -1,0 +1,16 @@
+sounddevice
+numpy
+soundfile
+pydub
+google-generativeai
+playsound==1.2.2
+scipy
+openai
+fastapi
+uvicorn
+uvicorn[standard]
+websocket
+websocket-client
+websockets
+wsproto
+python-dotenv
